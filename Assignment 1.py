@@ -1,3 +1,11 @@
+"""
+1. Bounded Polytope
+2. Non Degenerate
+3. Rank(A) = n
+4. Given some initial feasible point x
+"""
+
+
 import numpy as np
 from sympy import * 
 
